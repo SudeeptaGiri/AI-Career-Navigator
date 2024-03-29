@@ -1,8 +1,8 @@
 <h1>AI Career Navigator</h1>
 
-Installation packages required : express, mongodb, mongoose, body-parser, ejs, nodemon
+Installation packages required: express, MongoDB, mongoose, body-parser, ejs, nodemon
 
-1) To start our node server using local host -
+1) To start our node server using the local host -
 Go to Terminal and enter the following commands :
 
 ```
@@ -10,18 +10,18 @@ Go to Terminal and enter the following commands :
 2. npm run dev
 ```
 
-2) To start our python server using local host -
+2) To start our Python server using a local host -
 Go to Terminal and enter the following commands :
 
 ```
-1. cd recommandation
+1. cd recommendation
 2. pip install pandas 
 3. pip install scikit-learn 
 4. pip install flask
 5. python app.py
 ```
 
-The problem statement we are working on is : "Making career choices and AI based counselling accessible to every child at secondary level along with aptitude tests and detailed career paths."
+The problem statement we are working on is: "Making career choices and AI-based counseling accessible to every child at a secondary level along with aptitude tests and detailed career paths."
 
 Our solution aims personalized recommendations, job descriptions, and salary insights to help students make informed decisions and optimize their educational pathways, using AI.
 
@@ -31,11 +31,11 @@ Our solution aims personalized recommendations, job descriptions, and salary ins
 |---|---|
 | ![register](img/signup.png) | ![login](img/login.png) |
 
-* The dashboard keeps the track of the user's progress and also gives the user some additional options and features so that he can get a guided and defined path for his career.
+* The dashboard keeps track of the user's progress and also gives the user some additional options and features so that he can get a guided and defined path for his career.
   
 ![dashboard](img/dashboard.png)
 
-* The users also have an option where they need to enter their career related details, and based on those inputs and AI's suggestions, some recommended career options are given to the user with some follow up questions to test their knowledge for the same.
+* The users also have an option where they need to enter their career-related details, and based on those inputs and AI's suggestions, some recommended career options are given to the user with some follow-up questions to test their knowledge for the same.
 
 | Prediction Window 1 | Prediction Window 2 |
 |---|---|
