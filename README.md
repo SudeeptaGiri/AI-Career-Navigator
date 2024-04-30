@@ -6,19 +6,19 @@ Installation packages required: express, MongoDB, mongoose, body-parser, ejs, no
 Go to Terminal and enter the following commands :
 
 ```
-1. cd Login
-2. npm run dev
+cd Login
+npm run dev
 ```
 
 2) To start our Python server using a local host -
 Go to Terminal and enter the following commands :
 
 ```
-1. cd recommendation
-2. pip install pandas 
-3. pip install scikit-learn 
-4. pip install flask
-5. python app.py
+cd recommendation
+pip install pandas 
+pip install scikit-learn 
+pip install flask
+python app.py
 ```
 
 The problem statement we are working on is: "Making career choices and AI-based counseling accessible to every child at a secondary level along with aptitude tests and detailed career paths."
